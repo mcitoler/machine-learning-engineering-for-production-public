@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Generated artificats
+course1/week1-ungraded-lab/images_*
